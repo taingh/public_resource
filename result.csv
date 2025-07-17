@@ -1,4 +1,31 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-8.219.109.183,443,true,SIN,Asia Pacific,Singapore,229 ms,6775 kB/s
-47.57.233.126,443,true,SJC,North America,San Jose,69 ms,284 kB/s
-47.76.218.163,443,true,HKG,Asia Pacific,Hong Kong,56 ms,0 kB/s
+192.9.137.193,8443,true,SJC,North America,San Jose,174 ms,4761 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,224 ms,3079 kB/s
+130.61.107.238,8443,true,FRA,Europe,Frankfurt,316 ms,2905 kB/s
+89.168.68.57,2053,true,FRA,Europe,Frankfurt,263 ms,2810 kB/s
+217.142.243.226,443,true,KIX,Asia Pacific,Osaka,189 ms,2316 kB/s
+150.230.20.156,2053,true,AMS,Europe,Amsterdam,232 ms,1991 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,299 ms,1572 kB/s
+152.70.59.90,8443,true,AMS,Europe,Amsterdam,267 ms,1391 kB/s
+141.147.85.167,8443,true,LHR,Europe,London,290 ms,1391 kB/s
+168.138.184.172,443,true,SIN,Asia Pacific,Singapore,290 ms,1379 kB/s
+158.101.24.17,443,true,LAX,North America,Los Angeles,240 ms,1315 kB/s
+146.235.59.153,8443,true,GRU,South America,São Paulo,355 ms,1166 kB/s
+168.138.141.235,2053,true,GRU,South America,São Paulo,355 ms,830 kB/s
+89.168.68.57,8443,true,FRA,Europe,Frankfurt,263 ms,606 kB/s
+146.235.59.153,2053,true,GRU,South America,São Paulo,356 ms,410 kB/s
+129.80.123.71,443,true,IAD,North America,Ashburn,242 ms,386 kB/s
+150.230.20.156,8443,true,AMS,Europe,Amsterdam,221 ms,271 kB/s
+129.151.198.3,8443,true,ARN,Europe,Stockholm,265 ms,160 kB/s
+158.180.49.11,2053,true,FRA,Europe,Frankfurt,293 ms,139 kB/s
+132.226.163.224,8443,true,GRU,South America,São Paulo,377 ms,53 kB/s
+158.178.206.197,2053,true,CDG,Europe,Paris,261 ms,43 kB/s
+158.180.49.11,8443,true,FRA,Europe,Frankfurt,296 ms,35 kB/s
+89.168.43.31,2053,true,CDG,Europe,Paris,258 ms,34 kB/s
+158.178.206.197,8443,true,CDG,Europe,Paris,258 ms,34 kB/s
+89.168.43.31,8443,true,CDG,Europe,Paris,250 ms,33 kB/s
+141.145.205.115,8443,true,CDG,Europe,Paris,270 ms,33 kB/s
+132.226.163.224,2053,true,GRU,South America,São Paulo,378 ms,22 kB/s
+138.3.222.33,443,true,NRT,Asia Pacific,Tokyo,156 ms,0 kB/s
+168.138.194.74,443,true,NRT,Asia Pacific,Tokyo,138 ms,0 kB/s
+140.238.158.238,8080,true,YYZ,North America,Toronto,239 ms,0 kB/s
